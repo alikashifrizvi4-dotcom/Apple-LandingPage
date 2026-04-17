@@ -1,0 +1,265 @@
+.hero-bg {
+    background-color: #000000;
+    background-image: url(../images/apple-apple-airpods-gif-2.gif);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-origin: padding-box;
+    background-clip: padding-box;
+    background-size: cover;
+	
+}
+.form-card {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    width: 400px;
+    background-color: rgba(27,26,26,0.76);
+	background: rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(15px);
+    padding: 25px;
+    color: white;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+	max-width: 100%
+    
+    /* [disabled]max-width: 350px; */
+}
+.h5-form-card {
+    color: #FFFFFF;
+    margin-bottom: 15px;
+}
+.form-input {
+    background-color: #242527;
+    padding: 10;
+    border-radius: 6;
+    /* [disabled]margin-top: 15px; */
+    /* [disabled]margin-right: 15px; */
+    /* [disabled]margin-left: 15px; */
+    margin-bottom: 15px;
+    color: #000000;
+}
+.form-btn {
+    background-color: #FFFFFF;
+    border-radius: 10;
+    padding: 12;
+    color: #060606;
+    width: 100%;
+}
+.form-btn:hover {
+    background-color: #000000;
+    opacity: 1;
+}
+.h1-AirPods-Pro {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 60px;
+    letter-spacing: 1px;
+}
+.hero-description-para {
+    color: #AAAAAA;
+    line-height: 25px;
+	font-size: 18px;
+    opacity: 0.7;
+}
+.button-order-now {
+    background-color: #FFFFFF;
+    color: #000000;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 25px;
+    padding-right: 25px;
+    min-width: 0px;
+	background: white;
+    padding: 12px 30px;
+    border-radius: 30px;
+    border: none;
+    font-weight: 600;
+    transition: 0.3s;
+}
+.button-order-now:hover {
+    box-shadow: 0px 0px;
+    background-color: #000000;
+    color: #FFFFFF;
+	background: #000000;
+    transform: scale(1.05);
+}
+.content-bg {
+    height: 50px;
+    padding: 0;
+    margin-top: 13px;
+}
+.content-bg-2 {
+    background-color: rgba(255,255,255,1.00);
+    height: 350px;
+    margin-top: 15px;
+    text-align: center;
+	
+}
+.footer-bg {
+    background-color: rgba(0,0,0,1.00);
+    padding-top: 6px;
+    padding-bottom: 0px;
+}
+.social-media-icons {
+    margin-left: 15px;
+}
+
+.footer-icons {
+    color: rgba(255,255,255,1.00);
+}
+
+
+
+.content-features-h2 {
+    color: rgba(0,0,0,1.00);
+    font-style: normal;
+    font-family: Avalon;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 0;
+    padding-right: 0;
+    padding-left: 0;
+    letter-spacing: 1px;
+}
+.images {
+    text-align: center;
+}
+.footer-right-text {
+    text-align: right;
+    color: rgba(255,255,255,1.00);
+    margin-top: 0px;
+}
+.features-bg {
+    background-color: rgba(0,0,0,1.00);
+    background-repeat: no-repeat;
+    background-position: center 45px;
+    background-size: 528px auto;
+    color: rgba(255,255,255,1.00);
+    text-align: center;
+    box-shadow: 0px 0px;
+	
+}
+.about-us-bg {
+    background-color: rgba(255,255,255,1.00);
+    margin-top: 0px;
+    background-size: 998px auto;
+    background-repeat: no-repeat;
+    background-position: 0% 55%;
+    text-align: center;
+	
+}
+.about-us-txt {
+    text-align: center;
+}
+
+.features-heading {
+    font-weight: 400;
+    letter-spacing: 1px;
+    padding-top: 15px;
+    font-family: Avalon;
+}
+.col {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 30px;
+}
+
+.feature-box {
+  color: white;
+  text-align: left;
+  max-width: 300px;
+  
+}
+.feature-box-r {
+	color: white;
+  text-align: right;
+  max-width: 300px;
+}
+.feature-box-r h3 {
+  font-size: 20px;
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+
+.feature-box-r p {
+  font-size: 14px;
+  color: #aaa;
+}
+.feature-box-r:hover {
+  transform: translateY(-5px);
+  transition: 0.3s;
+}
+
+
+.feature-box h3 {
+  font-size: 20px;
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+
+.feature-box p {
+  font-size: 14px;
+  color: #aaa;
+}
+.left-col {
+    align-items: flex-end;
+    margin-top: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.right-col {
+    align-items: flex-start;
+    text-align: left;
+    margin-top: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.feature-box:hover {
+  transform: translateY(-5px);
+  transition: 0.3s;
+}
+.features-img {
+    margin-top: 75px;
+    min-width: 0px;
+
+
+
+
+}
+.btn-buy-now {
+    width: 120px;
+    text-align: center;
+    background-color: rgba(0,0,0,1.00);
+	background: black;
+    color: white;
+    border-radius: 25px;
+    padding: 8px 20px;
+    border: none;
+    transition: 0.3s;
+}
+.btn-buy-now:hover {
+    background-color: rgba(255,255,255,1.00);
+    color: rgba(0,0,0,1.00);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:768px){
+	         
+}
